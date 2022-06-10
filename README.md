@@ -6,4 +6,4 @@ Inspired by the lesson at freecodecamp which is 'learn responsive web design by 
 
 I changed some of data, and i created my own style.
 
-![img](piano.jpg)
+![img](img/piano.jpg)
